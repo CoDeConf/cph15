@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-header, h1, h2, h3, h4, h5, h6, .darkbox, .goldbox, .menu, a.button{
+header, h1, h2, h3, h4, h5, h6, .darkbox, .greenbox, .menu, a.button{
   font-family: 'Open Sans Condensed', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 
@@ -162,7 +162,6 @@ header a.menu:hover {
 }
 
 .goldbox {
-  background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;
   max-width: 200px;
   width: 100%;
   color: #FFFFFF;
@@ -171,8 +170,8 @@ header a.menu:hover {
 
 }
 
-.goldbox {
-  background: #c77600;
+.greenbox {
+  background: #5b9b3d url(../images/5b9b3d.png) 0 0 repeat;
   max-width: 200px;
   width: 100%;
   color: #FFFFFF;

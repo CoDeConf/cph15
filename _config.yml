@@ -1,8 +1,8 @@
-name: CoDe Stockholm Conference 2015
-hashtag: CoDeSTO
+name: CoDe Copenhagen Conference 2015
+hashtag: CoDeCPH
 highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
-url: www.code-conf.com/sto15/
-root: /sto15
+url: www.code-conf.com/cph15/
+root: /cph15
 markdown: kramdown
