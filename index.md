@@ -1,14 +1,14 @@
 ---
 layout: front
-title: CoDe STO Conference 2014 Front
+title: CoDe CPH Conference 2015 Front
 ---
 
 #Continuous Delivery & DevOps Conference
 
-##In Stockholm City
-__Beginning of June 2015__
+##In the heart of Copenhagen
+__Oct 7th 2015__
 
-######The popular CoDe conferences from Copenhagen and Oslo now made available for the Stockholmers too.
+######With the great success of last years conference we are delighted to annonce the CoDeCPH 2015.
 
 _This event is relevant to_{: .inverted} IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
 
@@ -16,6 +16,6 @@ _Continuous Delivery, DevOps, configuration as code, software factory, software 
 
 _Join the movement_{: .inverted} and come to the CoDe conference to get an insight.
 
-Right now we're busy planning the [Oslo event](http://www.code-conf.com/osl15) we will soon start adding details to the Stockholm event on these pages.
+Right now we're busy planning the [Oslo event](http://www.code-conf.com/osl15) we will soon start adding details to the Copenhagen event on these pages.
 
 Stay tuned - [follow us on Twitter](http://www.twitter.com/codesthlm/){: target="_blank"}
