@@ -14,7 +14,7 @@ _This event is relevant to_{: .inverted} IT executives & managers, software arch
 
 _Continuous Delivery, DevOps, configuration as code, software factory, software as inventory, infrastructure as code_ etc.  What does all these new principles that are refreshing the entire software development domain really mean?
 
-_Join the movement_{: .inverted} and come to the CoDe conference to get an insight and [follow us on Twitter](http://www.twitter.com/codesthlm/){: target="_blank"}
+_Join the movement_{: .inverted} and come to the CoDe conference to get an insight and [follow us on Twitter](http://www.twitter.com/codecph/){: target="_blank"}
 
 Right now we're busy planning the [Oslo event](http://www.code-conf.com/osl15) & [Stockholm event](http://www.code-conf.com/sto15) we will soon start adding details to the Copenhagen event on these pages. However, don't miss out - get your tickets already today!
 
